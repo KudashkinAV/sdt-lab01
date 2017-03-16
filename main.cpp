@@ -1,5 +1,6 @@
 
 #include <iostream>
+// Учебная программа
 
 int main() {
     int a, b;
